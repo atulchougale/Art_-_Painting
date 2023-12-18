@@ -1964,9 +1964,9 @@ a:hover {
     -moz-osx-font-smoothing: grayscale;
   }
   
-  .galary_top_left .icon-eye::before {
+  /* .galary_top_left .icon-eye::before {
     content: '\e000';
-  }
+  } */
   
   .galary_top_left .icon-paper-clip::before {
     content: '\e001';
